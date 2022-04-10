@@ -15,6 +15,7 @@ https://habr.com/ru/post/554406/
 
 Для запуска скрипта вам потребуются:
 Айдишники организации из POST запроса при нажатии на ваше отделение на карте
+POST с этим урлом надо искать в девелопер консоли браузера и в нем payload 
 https://www.gosuslugi.ru/api/lk/v1/equeue/agg/slots
 - eserviceId
 - serviceId
