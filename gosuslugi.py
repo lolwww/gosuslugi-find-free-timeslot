@@ -90,7 +90,7 @@ def get_cookies():
 
 
 def write_log(logmsg):
-    with open('/home/alex/Documents/Code/gosuslugi-selenium/log.txt', 'a') as f:
+    with open('/home/user/log.txt', 'a') as f:
         f.write(datetime.now().strftime('%H_%M_%d_%m_%Y') + " " + logmsg)
         f.write("\n")
         f.close()
